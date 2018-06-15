@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".LoginPge"
     android:background="@color/primaryBackColor">
-
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="111dp"
         android:layout_height="78dp"
@@ -76,15 +75,15 @@
             android:textSize="@dimen/basicSize" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/loginButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/basicMargin"
             android:layout_weight="1"
             android:background="@color/colorPrimary"
             android:text="@string/app_name"
-            android:textSize="@dimen/basicSize"
-            android:textColor="@color/backcolor"/>
+            android:textColor="@color/backcolor"
+            android:textSize="@dimen/basicSize" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

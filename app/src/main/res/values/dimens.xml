@@ -3,4 +3,8 @@
     <dimen name="basicPadding">35dp</dimen>
     <dimen name="basicMargin">15dp</dimen>
     <dimen name="basicSize">24sp</dimen>
+    <dimen name="secondSize">17sp</dimen>
+    <dimen name="thirdSize">20sp</dimen>
+    <dimen name="secondPadding">20dp</dimen>
+    <dimen name="editTextPadding">5dp</dimen>
 </resources>
